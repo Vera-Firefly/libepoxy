@@ -1,3 +1,5 @@
+## This repository was forked on [anholt:libepoxy](https://github.com/anholt/libepoxy)
+
 ![Ubuntu](https://github.com/anholt/libepoxy/workflows/Ubuntu/badge.svg)
 ![macOS](https://github.com/anholt/libepoxy/workflows/macOS/badge.svg)
 ![MSVC Build](https://github.com/anholt/libepoxy/workflows/MSVC%20Build/badge.svg)
